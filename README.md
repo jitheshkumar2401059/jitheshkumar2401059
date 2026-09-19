@@ -1,122 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=180&section=header&text=Jithesh%20Kumar&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=JITHESH%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=62&descSize=18&color=0:0F172A,50:312E81,100:06B6D4" width="100%"/>
 
-# 👋 Hi, I'm Jithesh Kumar
+<br>
 
-### `CSE Student` • `Aspiring Data Scientist` • `AI/ML Enthusiast` • `Developer`
+<img src="https://img.shields.io/badge/CSE%20Student-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-312E81?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-06B6D4?style=for-the-badge&logo=google&logoColor=white"/>
 
-**Turning ideas into practical technology. 🚀**
+<br><br>
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-🎓 Third-year **B.E. Computer Science & Engineering** student  
-📊 Aspiring **Data Scientist** with an interest in Machine Learning  
-🤖 Exploring **Generative AI, LLMs, RAG & AI Agents**  
-💻 Practicing **Data Structures & Algorithms**  
-🔨 Building practical projects that solve real-world problems  
-🌱 Continuously learning, experimenting, and improving
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode,django,docker,arduino" />
+<img src="https://komarev.com/ghpvc/?username=jitheshkumar2401059&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
 
 </div>
 
-### 📊 Data & AI
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Generative AI` `LLMs` `RAG` `AI Agents`
-
-### 💻 Development
-
-`Java` `Python` `C` `SQL` `Django` `Streamlit` `Git` `GitHub` `VS Code`
-
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 JARVIS
-
-**AI Voice Assistant**
-
-An AI assistant project exploring conversational AI, Gemini, voice interaction, tools, and AI-agent capabilities.
-
-`AI` `LLM` `Gemini` `Voice AI` `Agents`
-
-</td>
-
-<td width="50%">
-
-### 🚆 KAVACH
-
-**Automatic Train Protection System**
-
-A prototype railway safety system combining sensors, microcontrollers, automated gate control, and alerts.
-
-`IoT` `Embedded` `Automation` `Safety`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Data Science
-
-**Data Analysis & Visualization**
-
-Projects focused on analysing datasets, discovering patterns, extracting insights, and creating interactive visualizations.
-
-`Python` `Pandas` `NumPy` `Data Visualization`
-
-</td>
-
-<td width="50%">
-
-### 🧩 DSA Journey
-
-**Problem Solving**
-
-Improving algorithmic thinking through Data Structures, Algorithms, and programming problems.
-
-`Java` `DSA` `Algorithms` `LeetCode`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧭 My Learning Path
-
-<div align="center">
+# 👨‍💻 About Me
 
 ```text
-                         ┌─────────────────────┐
-                         │  COMPUTER SCIENCE   │
-                         └──────────┬──────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              ▼                     ▼                     ▼
-       ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
-       │     DSA     │       │    DATA     │       │   AI / ML   │
-       │             │       │   SCIENCE   │       │             │
-       └──────┬──────┘       └──────┬──────┘       └──────┬──────┘
-              │                     │                     │
-              └─────────────────────┼─────────────────────┘
-                                    ▼
-                         ┌─────────────────────┐
-                         │   AI ENGINEERING   │
-                         └─────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                         JITHESH KUMAR                       │
+├──────────────────────────────────────────────────────────────┤
+│ 🎓 Third-Year B.E. Computer Science & Engineering Student   │
+│ 📊 Aspiring Data Scientist                                  │
+│ 🤖 Exploring Generative AI, LLMs & AI Agents               │
+│ 🧠 Practicing Data Structures & Algorithms                  │
+│ 🐍 Python Developer                                         │
+│ ☕ Java Programmer                                          │
+│ 🚀 Building real-world projects                             │
+└──────────────────────────────────────────────────────────────┘
