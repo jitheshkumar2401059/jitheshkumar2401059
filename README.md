@@ -2,18 +2,18 @@
 
 # 👋 Hi, I'm Jithesh Kumar
 
-### 🎓 CSE Student | 📊 Aspiring Data Scientist | 🤖 AI & GenAI Explorer
+### 🎓 CSE Student • 📊 Aspiring Data Scientist • 🤖 AI & GenAI Explorer
 
 <p>
   <a href="https://github.com/jitheshkumar2401059">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Jithesh%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Jithesh%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header"/>
 
 </div>
 
@@ -39,7 +39,7 @@ I enjoy learning by building projects, solving problems, experimenting with new 
 
 ## 🎯 Current Focus
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Data%20Science-Learning%20%26%20Building-1f6feb?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-Strong%20Focus-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -49,7 +49,7 @@ I enjoy learning by building projects, solving problems, experimenting with new 
 <img src="https://img.shields.io/badge/Generative%20AI-Building-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-Exploring-00A67E?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
@@ -58,14 +58,10 @@ I enjoy learning by building projects, solving problems, experimenting with new 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js" alt="Programming Languages"/>
 </p>
 
 ### 📊 Data Science & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
@@ -82,13 +78,13 @@ I enjoy learning by building projects, solving problems, experimenting with new 
 ### 🗄️ Database & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,django" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,django" alt="Database and Backend"/>
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Development Tools"/>
 </p>
 
 ---
@@ -99,7 +95,7 @@ I enjoy learning by building projects, solving problems, experimenting with new 
 
 Building an AI personal assistant using modern AI technologies with a focus on intelligent interaction, voice capabilities, LLM-based responses and AI agents.
 
-**Technologies & Concepts**
+**Tech & Concepts**
 
 `Python` • `Gemini` • `LLMs` • `AI Agents` • `LiveKit` • `Voice AI`
 
@@ -147,9 +143,9 @@ Currently strengthening my **Data Structures & Algorithms** skills through regul
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jitheshkumar2401059&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jitheshkumar2401059&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitheshkumar2401059&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitheshkumar2401059&layout=compact&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
 
@@ -159,27 +155,7 @@ Currently strengthening my **Data Structures & Algorithms** skills through regul
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jitheshkumar2401059&hide_border=true" />
-
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitheshkumar2401059&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jitheshkumar2401059&no-frame=true&no-bg=true&margin-w=5&column=7" />
+<img src="https://streak-stats.demolab.com?user=jitheshkumar2401059&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
