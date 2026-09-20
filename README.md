@@ -191,15 +191,6 @@ Currently strengthening my **Data Structures & Algorithms** skills through regul
                     ┌─────────────────┐
                     │  Real-World AI  │
                     └─────────────────┘
-```text
-<div align="center">
 
-## 💻 LEARN • BUILD • SOLVE • CREATE • REPEAT
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" alt="Footer"/>
-
-</div>
 
 
